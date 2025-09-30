@@ -1,0 +1,19 @@
+/* *{
+    background-color: rgb(152, 237, 240);
+    position: absolute;
+    top: 100vh;
+    width: 100%;
+
+    border: 7px solid purple;
+} */
+
+
+/* In the below css code snippet, the properties will get applied only to the element having className as footer. */
+.footer{
+    background-color: rgb(152, 237, 240);
+    position: absolute;
+    top: 100vh;
+    width: 100%;
+
+    border: 7px solid purple;
+}
